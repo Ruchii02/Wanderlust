@@ -1,5 +1,5 @@
 # Wanderlust
-https://wanderlust-pav5.onrender.com
+https://wanderlust-pav5.onrender.com/listings
 # Project Overview
 This project is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It incorporates Cloudinary for image uploads, Mapbox for handling locations, and MongoDB Atlas for cloud-based data storage. The application allows users to create, view, update, and delete listings, with authentication features to secure user data.
 
